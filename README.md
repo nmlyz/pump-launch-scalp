@@ -1,5 +1,9 @@
 # Pump Launch Scalp
 
+[![make.fun · u-riidzhsn-pump-fun-bot-sprint-make-bot-and-win-cb203fed](https://make.fun/badge/u-riidzhsn-pump-fun-bot-sprint-make-bot-and-win-cb203fed.svg)](https://make.fun/bounty/u-riidzhsn-pump-fun-bot-sprint-make-bot-and-win-cb203fed?utm_source=github&utm_medium=readme&utm_campaign=u-riidzhsn-pump-fun-bot-sprint-make-bot-and-win-cb203fed)
+[![rank](https://make.fun/badge/u-riidzhsn-pump-fun-bot-sprint-make-bot-and-win-cb203fed/nmlyz/pump-launch-scalp/rank.svg)](https://make.fun/bounty/u-riidzhsn-pump-fun-bot-sprint-make-bot-and-win-cb203fed/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-riidzhsn-pump-fun-bot-sprint-make-bot-and-win-cb203fed)
+[![reward](https://make.fun/badge/u-riidzhsn-pump-fun-bot-sprint-make-bot-and-win-cb203fed/nmlyz/pump-launch-scalp/reward.svg)](https://make.fun/bounty/u-riidzhsn-pump-fun-bot-sprint-make-bot-and-win-cb203fed?utm_source=github&utm_medium=readme&utm_campaign=u-riidzhsn-pump-fun-bot-sprint-make-bot-and-win-cb203fed)
+
 A trading bot for pump.fun-style Solana bonding curves. It watches every new
 curve on the replay feed and buys the pullback: a coin that already ran up, still
 holds real liquidity, and has dipped at least 10% from its post-launch high.
@@ -28,3 +32,7 @@ holds real liquidity, and has dipped at least 10% from its post-launch high.
 
 The numbers in `STRATEGY.md` were measured with the kit's local engine port on
 the frozen dev window (all three dataset parts, 24h of chain data).
+
+---
+
+<sub>See the bot on [make.fun](https://make.fun/bounty/u-riidzhsn-pump-fun-bot-sprint-make-bot-and-win-cb203fed)</sub>
